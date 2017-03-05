@@ -5,17 +5,8 @@
     "license": "Apache-2.0",
     "authors": [],
     "require": {
-        "php-amqplib/php-amqplib": "2.6.*",
-        "psr/log": "~1.0",
-        "cultuurnet/deserializer": "~0.1",
-        "2dotstwice/collection": "~1.1"
     },
     "require-dev": {
-        "phpunit/phpunit": "~5.7",
-        "phpunit/php-token-stream": "1.4.6",
-        "squizlabs/php_codesniffer": "2.6.1",
-        "phing/phing": "~2.11",
-        "satooshi/php-coveralls": "~0.7"
     },
     "autoload": {
         "psr-4": {
